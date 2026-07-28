@@ -45,7 +45,7 @@ const Nav = () => (
         <a href="#why" className="text-sm text-white/60 hover:text-white transition-colors hidden md:block">Why BB Companion</a>
         <a href="#faq" className="text-sm text-white/60 hover:text-white transition-colors hidden md:block">FAQ</a>
         <a
-          href="https://github.com/mert-erkoc/bug-bounty-companion"
+          href="https://github.com/mert-erkoc"
           target="_blank"
           className="bg-white/5 hover:bg-white/10 border border-white/10 rounded-full px-4 py-1.5 text-sm font-medium transition-all flex items-center gap-2"
         >
@@ -357,7 +357,7 @@ const Footer = () => (
             Fast, private, and powerful.
           </p>
           <div className="flex items-center gap-4">
-            <a href="https://github.com/mert-erkoc/bug-bounty-companion" className="text-white/40 hover:text-white transition-colors">
+            <a href="https://github.com/mert-erkoc" className="text-white/40 hover:text-white transition-colors">
               <Github className="w-5 h-5" />
             </a>
             <a href="#" className="text-white/40 hover:text-white transition-colors">
@@ -377,7 +377,7 @@ const Footer = () => (
           <h4 className="text-white font-bold mb-6 text-sm">Links</h4>
           <ul className="space-y-4 text-sm text-white/40">
             <li><a href="#" className="hover:text-white transition-colors">Privacy Policy</a></li>
-            <li><a href="https://github.com/mert-erkoc/bug-bounty-companion" className="hover:text-white transition-colors">GitHub</a></li>
+            <li><a href="https://github.com/mert-erkoc" className="hover:text-white transition-colors">GitHub</a></li>
             <li><a href="mailto:bugbountycompanion@gmail.com" className="hover:text-white transition-colors">Contact</a></li>
           </ul>
         </div>
