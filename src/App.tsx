@@ -12,7 +12,7 @@ import {
   JsMinerMockup, JwtMockup, HashIdMockup
 } from './components/Mockups';
 
-const Logo = ({ className = "w-8 h-8" }: { className?: string }) => (
+export const Logo = ({ className = "w-8 h-8" }: { className?: string }) => (
   <img src="/logo.svg" alt="Bug Bounty Companion Logo" className={className} />
 );
 
