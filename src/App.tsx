@@ -377,7 +377,7 @@ const Footer = () => (
         <div>
           <h4 className="text-white font-bold mb-6 text-sm">Links</h4>
           <ul className="space-y-4 text-sm text-white/40">
-            <li><a href="#" className="hover:text-white transition-colors">Privacy Policy</a></li>
+            <li><a href="/privacy" className="hover:text-white transition-colors">Privacy Policy</a></li>
             <li><a href="https://github.com/mert-erkoc" className="hover:text-white transition-colors">GitHub</a></li>
             <li><a href="mailto:bugbountycompanion@gmail.com" className="hover:text-white transition-colors">Contact</a></li>
           </ul>
