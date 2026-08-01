@@ -95,6 +95,7 @@ export default function Success() {
           <a
             href="https://github.com/mert-erkoc"
             target="_blank"
+            rel="noopener noreferrer"
             className="w-full sm:w-auto px-8 py-3 rounded-xl bg-cyan text-background font-bold hover:bg-cyan/90 transition-all flex items-center justify-center gap-2 shadow-lg shadow-cyan/20"
           >
             Start Hunting

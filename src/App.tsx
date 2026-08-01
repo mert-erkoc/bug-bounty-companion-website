@@ -47,6 +47,7 @@ const Nav = () => (
         <a
           href="https://github.com/mert-erkoc"
           target="_blank"
+          rel="noopener noreferrer"
           className="bg-white/5 hover:bg-white/10 border border-white/10 rounded-full px-4 py-1.5 text-sm font-medium transition-all flex items-center gap-2"
         >
           <Github className="w-4 h-4" />
