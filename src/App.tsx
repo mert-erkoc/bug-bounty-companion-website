@@ -76,7 +76,9 @@ const Hero = () => (
       </p>
       <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
         <a
-          href="#"
+          href="https://chromewebstore.google.com/detail/bug-bounty-companion/aafmafldkabmjmmjjfeklbdojfaejgic"
+          target="_blank"
+          rel="noopener noreferrer"
           className="w-full sm:w-auto bg-cyan hover:bg-cyan/90 text-background px-8 py-4 rounded-xl font-bold text-lg transition-all flex items-center justify-center gap-2 shadow-lg shadow-cyan/20"
         >
           <Download className="w-5 h-5" />
